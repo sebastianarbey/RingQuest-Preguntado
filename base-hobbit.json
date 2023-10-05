@@ -1,0 +1,144 @@
+[
+{ "categoria": "El Hobbit",
+"pregunta": "¿Los enanos fueron la unica raza que no fue creada por iluvatar, pero quien los creo entonces?",
+"respuesta": "Aule El Herrero",
+"incorrecta1": "Sauron",
+"incorrecta2": "Los Elfos",
+"incorrecta3": "Melkor/Morgoth",
+"imagen": "https://i.pinimg.com/736x/e4/7f/3f/e47f3fa7f25c1b1fca0b270918a3ce6c.jpg",
+"objectFit": "cover"
+},
+
+{ "categoria": "El Hobbit",
+"pregunta": "¿En que año fue escrita la novela del Hobbit?",
+"respuesta": "1920",
+"incorrecta1": "1940",
+"incorrecta2": "2000",
+"incorrecta3": "1990",
+"imagen": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/xel-hobbit-un-viaje-inesperado-264928_SPA-52.jpg.pagespeed.ic.ra8eTnrxQr.jpg",
+"objectFit": "cover"
+},
+
+{ "categoria": "El Hobbit",
+"pregunta": "¿En que Pais, fue filmada la trilogia del Hobbit?",
+"respuesta": "Nueva Zelanda",
+"incorrecta1": "EE.UU",
+"incorrecta2": "Inglaterra",
+"incorrecta3": "España",
+"imagen": "https://elcomercio.pe/resizer/Es54oWlc0fJQrErwVdolM-rBqXE=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/FUDH2WJ4AVHPTGFBCGSWCPSZPI.jpg",
+"objectFit": "cover"
+},
+
+{ "categoria": "El Hobbit",
+"pregunta": "¿Cuántos enanos fueron a recuperar el tesoro de Erebor?",
+"respuesta": "13",
+"incorrecta1": "20",
+"incorrecta2": "10",
+"incorrecta3": "25",
+"imagen": "https://imagenes.20minutos.es/files/image_654_369/uploads/imagenes/2012/09/28/78461.jpg",
+"objectFit": "cover"
+},
+
+{ "categoria": "El Hobbit",
+"pregunta": "¿Dónde había estado Thrain cuando Gandalf lo encontró en Dol Guldur?",
+"respuesta": "Prisionero en las mazmorras del Nigromante",
+"incorrecta1": " En Erebor",
+"incorrecta2": "Por el Monte de Gundabad",
+"incorrecta3": " En Gondor",
+"imagen": "https://www.elcineenlasombra.com/wp-content/uploads/2014/12/the-hobbit-the-desolation-of-smaug-22982-2880x1800-copia.jpg",
+"objectFit": "cover"
+},
+
+{ "categoria": "El Hobbit",
+"pregunta": "¿Qué se celebra el Día de Durin?",
+"respuesta": "Todas son correctas",
+"incorrecta1": " Primer dia del calendario enano",
+"incorrecta2": "Rememoran a Durin l el inmortal ",
+"incorrecta3": " Que la ultima luna del otoño y el sol coinciden cielo",
+"imagen": "https://media.thenerdstash.com/wp-content/uploads/2022/01/The-Hobbit-trilogy.jpg",
+"objectFit": "cover"
+},
+
+{ "categoria":   "El Hobbit",
+"pregunta": "¿Qué encuentra Bilbo en la Cueva de los trasgos? ",
+"respuesta": "El anillo unico",
+"incorrecta1" : "La piedra del Arca",
+"incorrecta2" : "Una espada elfica",
+"incorrecta3" : "Una aguila",
+"imagen": "https://imagenes.20minutos.es/files/image_654_369/uploads/imagenes/2012/12/12/47673.jpg",
+"objectFit": "cover"
+},
+
+{ "categoria":   "El Hobbit",
+"pregunta": "¿Que lleva el enanos Thorin en su mano como escudo? ",
+"respuesta": "Un pedazo de roble",
+"incorrecta1" : "Mithril",
+"incorrecta2" : " Un metal precioso",
+"incorrecta3" : "Un escudo de diamantes",
+"imagen": "https://images.hive.blog/0x0/https://i.pinimg.com/564x/37/8d/ec/378decd1d195b2dacd9528b1876c0b67.jpg",
+"objectFit": "cover"
+},
+
+{ "categoria":   "El Hobbit",
+"pregunta": "  ¿Quién interpreta el papel de Gandalf en las peliculas del Hobbit?",
+"respuesta": "Ian McKellen",
+"incorrecta1" : "Liam Neeson",
+"incorrecta2" : " Christopher Lee",
+"incorrecta3" : "Stanley Kubrick",
+"imagen": "https://alchetron.com/cdn/thingol-357de291-8d6c-410f-9b61-d7bf7f1df55-resize-750.jpg",
+"objectFit": "cover"
+},
+
+
+{ "categoria":   "El Hobbit",
+"pregunta": "¿Quién dirigió las tres películas de la saga de 'El Hobbit'?",
+"respuesta": "Peter Jackson",
+"incorrecta1" : "James Cameron",
+"incorrecta2" : "Steven Spielberg ",
+"incorrecta3" : "Stanley Kubrick",
+"imagen": "https://images.hive.blog/0x0/https://i.pinimg.com/564x/37/8d/ec/378decd1d195b2dacd9528b1876c0b67.jpg",
+"objectFit": "cover"
+},
+
+{ "categoria":   "El Hobbit",
+"pregunta": "¿Es verdad que la trilogia del Hobbit gano un oscar?",
+"respuesta": "Falso no gano ni uno solo ",
+"incorrecta1" : "Verdadero gano varios",
+"incorrecta2" : "Gano 10 oscar",
+"incorrecta3" : "Gano 1 oscar",
+"imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0df9c88c-31ea-4a90-80a3-ff05e799d307/dbcbt3a-722dfe2a-8fb0-4951-840e-85d989c237f1.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBkZjljODhjLTMxZWEtNGE5MC04MGEzLWZmMDVlNzk5ZDMwN1wvZGJjYnQzYS03MjJkZmUyYS04ZmIwLTQ5NTEtODQwZS04NWQ5ODljMjM3ZjEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jkGtFnWZ9_aaFAlkrBYFv6DPIfvRVBwdMFGLAzvR5IA",
+"objectFit": "cover"
+},
+
+{ "categoria":   "El Hobbit",
+"pregunta": "¿Quien era el Nigromante de dol guldur?",
+"respuesta": "Sauron",
+"incorrecta1" : "Un Nazgul",
+"incorrecta2" : "Saruman",
+"incorrecta3" : "Ella-la-Araña",
+"imagen": "",
+"objectFit": "cover"
+},
+
+
+{ "categoria":   "El Hobbit",
+"pregunta": "¿Como se llamaba el bosque donde vivia Radagas el pardo?",
+"respuesta": "Rhosgobel",
+"incorrecta1" : "Mordor",
+"incorrecta2" : "Bosque de Fandon",
+"incorrecta3" : "Las laderas de Rohan",
+"imagen": "",
+"objectFit": "cover"
+}
+
+
+
+
+
+
+
+
+
+
+
+]

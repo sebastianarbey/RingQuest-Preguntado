@@ -1,0 +1,222 @@
+[
+    
+   
+
+    
+    {
+        "categoria": "Criaturas",
+        "pregunta": "¿Cual fue el dragon mas grande y poderoso de la historia?",
+        "respuesta": "Ancalagon",
+        "incorrecta1": "Smaug el Dorado",
+        "incorrecta2": "Scartha",
+        "incorrecta3": "Sauron",
+        "imagen": "https://wp.en.aleteia.org/wp-content/uploads/sites/2/2023/05/shutterstock_1845833056.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Magos",
+        "pregunta": "¿cual era el Verdadero Nombre de Gandalf?",
+        "respuesta": "Olorin",
+        "incorrecta1": "Aladin",
+        "incorrecta2": "Mago",
+        "incorrecta3": "Merlin",
+        "imagen": "https://tolkiengateway.net/w/images/thumb/4/42/Matt_Stewart_-_Gandalf_-_A_Light_in_the_Dark.jpg/800px-Matt_Stewart_-_Gandalf_-_A_Light_in_the_Dark.jpg",
+        "objectFit": "cover"
+    }, 
+
+    
+
+    
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Cuantos Magos en total, fueron Enviados, a la lucha contra Sauron en la Tierra Media?",
+        "respuesta": "5",
+        "incorrecta1": "10",
+        "incorrecta2": "3",
+        "incorrecta3": "2",
+        "imagen": "https://www.anarda.net/tolkien/Enciclopedia/jh_08.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Quien fue el verdadero señor oscuro de la historia?",
+        "respuesta": "Morgoth/Melkor",
+        "incorrecta1": "Sauron",
+        "incorrecta2": "Los orcos",
+        "incorrecta3": "Rey Brujo",
+        "imagen": "https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2022/10/06102758/The-Rings-of-Power-White-Cloaks-Mystics.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Quien creo las palantiri (piedras videntes)?",
+        "respuesta": "Feanor",
+        "incorrecta1": "Sauron",
+        "incorrecta2": "Saruman",
+        "incorrecta3": "Melkor/Morgoth",
+        "imagen": "https://i.pinimg.com/1200x/ea/e0/e7/eae0e7d77bc876fb6e72e1838b1fe64d.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Silmarillion",
+        "pregunta": "¿Como se Llama el dios creador de arda y la tierra media?",
+        "respuesta": "Iluvatar el Unico",
+        "incorrecta1": "Manwe",
+        "incorrecta2": "Jehova",
+        "incorrecta3": "Maoma",
+        "imagen": "https://tierramedia.net/wp-content/uploads/arda-tierra-media.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "El Señor de los Anillos",
+        "pregunta": "¿Cual fue la primera capital del reino De Gondor?",
+        "respuesta": "Osgiliath",
+        "incorrecta1": "Minas Tirith",
+        "incorrecta2": "Rohan",
+        "incorrecta3": "Abismo de Helm",
+        "imagen": "https://www.glyphweb.com/arda/maps/gondor.png",
+        "objectFit": "cover"
+    },
+
+   { "categoria": "El Señor de los Anillos",
+    "pregunta": "¿Como se llamaba el hermoso Y poderoso reino donde habitaba Galadriel y su esposo Celeborn?",
+    "respuesta": "Lothlorien",
+    "incorrecta1": "Mordor",
+    "incorrecta2": "Rivendel",
+    "incorrecta3": "Gondor",
+    "imagen": "https://usa-forum.d5cdn.com/optimized/2X/8/8fa194e33a766e4a16e43f2db31907610b8b1fb2_2_690x379.jpeg",
+    "objectFit": "cover"
+},
+
+
+{ "categoria": "El Señor de los Anillos",
+"pregunta": "¿Como se llama la raza del demonio con el que lucha gandalf, en la comunidad del anillo?",
+"respuesta": "Balrogs",
+"incorrecta1": "Demonios",
+"incorrecta2": "Hombres de fuego",
+"incorrecta3": "Orcos Gigantes",
+"imagen": "https://qph.cf2.quoracdn.net/main-qimg-a11c14c36046d2285221702e16bc46e1-lq",
+"objectFit": "cover"
+},
+
+{ "categoria": "El Señor de los Anillos",
+"pregunta": "¿Como se llama la raza a la que pertenecia sauron?",
+"respuesta": "Maiar",
+"incorrecta1": "Elfos",
+"incorrecta2": "Mago",
+"incorrecta3": "Balrog",
+"imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Sauron.jpg/290px-Sauron.jpg",
+"objectFit": "cover"
+},
+
+{"categoria": "El Señor de los Anillos",
+    "pregunta": "¿Qué criaturas malignas sirven a sauron en la historia?",
+    "respuesta": "Los orcos",
+    "incorrecta1" : "Arañas",
+    "incorrecta2" : "Dragones",
+    "incorrecta3" : "Elfos",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQf6X3yA2C9wwH8ixq-nrf7S6Jrx_-VeYMpQ&usqp=CAU",
+"objectFit": "cover"
+  },
+
+
+  {"categoria": "señor de los anillos",
+    "pregunta": " ¿Quién mata al Rey Brujo?",
+    "respuesta": "Eowyn",
+    "incorrecta1" : "Aragorn",
+    "incorrecta2" : "Merry",
+    "incorrecta3" : "Legolas",
+    "imagen": "https://pm1.aminoapps.com/6853/2fd6047186f0c45fdd345ab037fa00d46673af27v2_00.jpg",
+"objectFit": "cover"
+  },
+
+{"categoria": "señor de los anillos",
+    "pregunta": "¿Cómo se llama el pan élfico? ",
+    "respuesta": "Lembas",
+    "incorrecta1" : "Pan Frances",
+    "incorrecta2" : "Lumbas",
+    "incorrecta3" : "Lumbash",
+    "imagen": "https://bebeamordor.com/wp-content/uploads/2020/08/lembas__Bam_2.jpg",
+    "objectFit": "cover"
+  },
+
+    { "categoria":   "señor de los anillos",
+    "pregunta": "¿ En qué dirección le pide Gandalf a Aragorn que mire en la primera luz del quinto día? ",
+    "respuesta": "este",
+    "incorrecta1" : "norte",
+    "incorrecta2" : "Sur",
+    "incorrecta3" : "Oeste",
+    "imagen": "https://assets-prd.ignimgs.com/2022/02/24/ringsofpower-gandalf-blogroll-1645743567179.jpg",
+    "objectFit": "cover"
+  },
+
+  { "categoria":   "señor de los anillos",
+  "pregunta": "¿Como se llama el padre de Gimli el enano? ",
+  "respuesta": "Gloin",
+  "incorrecta1" : "Durin",
+  "incorrecta2" : "Thorin",
+  "incorrecta3" : "Dain pie de hierro",
+  "imagen": "https://as01.epimg.net/epik/imagenes/2017/06/07/portada/1496856474_535425_1496856734_noticia_normal.jpg",
+  "objectFit": "cover"
+},
+
+{ "categoria":   "señor de los anillos",
+"pregunta": "¿En que año nacio el gran maestro J.R.R.Tolkien? ",
+"respuesta": "1892",
+"incorrecta1" : "1900",
+"incorrecta2" : "1945",
+"incorrecta3" : "1950",
+"imagen": "https://images.immediate.co.uk/production/volatile/sites/7/2019/05/88.-GettyImages-3247205-f84b6be-e1567001931829.jpg",
+"objectFit": "cover"
+},
+
+{ "categoria":   "señor de los anillos",
+"pregunta": "¿Cual es el nombre real de la criatura Gollum? ",
+"respuesta": "Smeagol",
+"incorrecta1" : "Mi Precioso",
+"incorrecta2" : "Sam",
+"incorrecta3" : "Deagol",
+"imagen": "https://hips.hearstapps.com/hmg-prod/images/lord-of-the-rings-gollum-647356d1dfaa4.jpg?crop=1xw:0.863697705802969xh;center,top&resize=1200:*",
+"objectFit": "cover"
+},
+
+{ "categoria":   "señor de los anillos",
+"pregunta": "Cuantos Nazgul eran en total ",
+"respuesta": "9 ",
+"incorrecta1" : "7",
+"incorrecta2" : "1",
+"incorrecta3" : "5",
+"imagen": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/01/Fell-Beast-and-Nazgul.jpg",
+"objectFit": "cover"
+},
+
+
+{ "categoria":   "señor de los anillos",
+"pregunta": "Cual es el nombre de los dos magos azules",
+"respuesta": "Alatar y Pallandor ",
+"incorrecta1" : "Merlin y Oshin",
+"incorrecta2" : "Osiris y Nesfy",
+"incorrecta3" : "Gandalf y Radagas",
+"imagen": "https://pbs.twimg.com/media/CdC4EPPXEAAvGUU.jpg",
+"objectFit": "cover"
+},
+
+{ "categoria":   "señor de los anillos",
+"pregunta": "¿Como se llama la madre de ella-la araña?",
+"respuesta": "Ungoliant ",
+"incorrecta1" : "Araña Negra",
+"incorrecta2" : "Melkor",
+"incorrecta3" : "Smeagol",
+"imagen": "https://static.wikia.nocookie.net/lotr/images/c/ca/Balrogs_vs_Ungoliant.jpg/revision/latest?cb=20170625162229",
+"objectFit": "cover"
+}
+
+
+  
+
+]
+

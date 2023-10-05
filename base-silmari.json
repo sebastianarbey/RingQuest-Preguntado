@@ -1,0 +1,238 @@
+[
+    {
+        "categoria": "Elfos",
+        "pregunta": "¿Cual es el elfo mas Poderoso de la historia?",
+        "respuesta": "Feanor",
+        "incorrecta1": "Galadriel",
+        "incorrecta2": "Glorfindel",
+        "incorrecta3": "Maedhros",
+        "imagen": "https://centralmutante.com/wp-content/uploads/2013/05/Portda-final.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Como se les llamaban a los dioses que ayudaron a crear la tierra media?",
+        "respuesta": "Valar",
+        "incorrecta1": "Arcangeles",
+        "incorrecta2": "Angeles",
+        "incorrecta3": "Dioses",
+        "imagen": "https://qph.cf2.quoracdn.net/main-qimg-eaa31ac3bd987d63bb08f445368f23ca-pjlq",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Quien fue el primer Rey de la Isla de Numenor?",
+        "respuesta": "Elros",
+        "incorrecta1": "Aragorn",
+        "incorrecta2": "Legolas",
+        "incorrecta3": "Turin Turambar",
+        "imagen": "https://imgix.bustle.com/uploads/image/2022/9/7/5bfccde1-d7a6-471d-a99c-4ccd359d954b-the_lord_of_the_rings_the_rings_of_power_teaser_frame_01_credit__prime_video.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.488&fp-y=0.3269",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Cuál es el nombre de la espada de Túrin Turambar en 'El Silmarillion'?",
+        "respuesta": "Gurthang",
+        "incorrecta1": "Daga Negra",
+        "incorrecta2": "Dardo",
+        "incorrecta3": "La Espada de la Luz",
+        "imagen": "https://www.carteltec.com/wp-content/uploads/2022/09/El-Senor-de-los-Anillos-esta-legendaria-espada-del-Silmarillion.jpeg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Cuantos grupos de elfos creo Iluvatar'?",
+        "respuesta": "3",
+        "incorrecta1": "8",
+        "incorrecta2": "2",
+        "incorrecta3": "20",
+        "imagen": "https://cdnb.artstation.com/p/assets/images/images/033/757/945/large/pete-amachree-img-20210112-200357.jpg?1610486376",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿De que color era el cabello de los elfos Vanyar'?",
+        "respuesta": "Rubio",
+        "incorrecta1": "Negro",
+        "incorrecta2": "Plateado",
+        "incorrecta3": "Rojizo",
+        "imagen": "https://tolkiengateway.net/w/images/thumb/7/74/Anke_Ei%C3%9Fmann_-_The_hunting-party_I.jpg/315px-Anke_Ei%C3%9Fmann_-_The_hunting-party_I.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Qué elfo es conocido como El Alto Rey de los Noldor en el Silmarillion?",
+        "respuesta": "Finwe",
+        "incorrecta1": "Turgon",
+        "incorrecta2": "Gil-Galad",
+        "incorrecta3": "Maedhros",
+        "imagen": "https://qph.cf2.quoracdn.net/main-qimg-0cc7a8bc7ce04df3eda058f10373bda3",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Quién es el líder de los Vanyar, una de las tres tribus principales de los elfos en Aman?",
+        "respuesta": "Ingwe",
+        "incorrecta1": "Glorfindel",
+        "incorrecta2": "Gil-Galad",
+        "incorrecta3": "Feanor",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Araniart_-_Elves_leave_Middle-earth.jpg/300px-Araniart_-_Elves_leave_Middle-earth.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Quién es el poderoso Vala que forjó los Dos Árboles de Valinor?",
+        "respuesta": "Yavanna",
+        "incorrecta1": "Nienna",
+        "incorrecta2": "Varda ",
+        "incorrecta3": "Galadriel",
+        "imagen": "https://qph.cf2.quoracdn.net/main-qimg-eaa31ac3bd987d63bb08f445368f23ca-pjlq",
+        "objectFit": "cover"
+    },
+
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿como se llama la valier reina de las estrellas y creadora de la luz?",
+        "respuesta": "Varda",
+        "incorrecta1": "Nienna",
+        "incorrecta2": "Nerdanel",
+        "incorrecta3": "Galadriel",
+        "imagen": "https://pm1.aminoapps.com/6937/67a6d5b60be9159630699c679849475ebe1a7bbar1-906-882v2_00.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Como se llama el padre de los dragones?",
+        "respuesta": "Glaurung",
+        "incorrecta1": "Ancalagon",
+        "incorrecta2": "Smaug",
+        "incorrecta3": "Sauron",
+        "imagen": "https://aronjaart-shop.com/cdn/shop/products/image_bb254761-93a9-470c-b90b-387c8e4896c0_800x.jpg?v=1661453812",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Como se llama el perro mas grande y poderoso de la historia de arda?",
+        "respuesta": "Huan",
+        "incorrecta1": "Zeus",
+        "incorrecta2": "Toby",
+        "incorrecta3": "Scarthag",
+        "imagen": "https://i0.wp.com/www.tor.com/wp-content/uploads/2018/05/Huan-and-Luthien.jpg?fit=740%2C+9999&crop=0%2C0%2C100%2C416px&ssl=1",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Como se llama la madre de Luthien?",
+        "respuesta": "Melian",
+        "incorrecta1": "Yavanna",
+        "incorrecta2": "Arwen",
+        "incorrecta3": "Varda",
+        "imagen": "https://qph.cf2.quoracdn.net/main-qimg-eba61ca4ebe358668133bb72a47a9c87-lq",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Quien fue el elfo que mas hijos tuvo en la historia?",
+        "respuesta": "Feanor",
+        "incorrecta1": "Thingol",
+        "incorrecta2": "Maglor",
+        "incorrecta3": "Elron",
+        "imagen": "https://qph.cf2.quoracdn.net/main-qimg-0cc7a8bc7ce04df3eda058f10373bda3",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Como se llama el valar señor de las aguas y de los mares de arda?",
+        "respuesta": "Ulmo",
+        "incorrecta1": "Melkor",
+        "incorrecta2": "Tulkas",
+        "incorrecta3": "Poseidon",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Donde se encuentra ubicada la ciudad escondida de Gondolin en la tierra media?",
+        "respuesta": "El gran valle (montañas circundantes)",
+        "incorrecta1": "Lindon",
+        "incorrecta2": "Valinor",
+        "incorrecta3": "Gondor",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+
+  {
+        "categoria": "Varios",
+        "pregunta": "¿Quien fue el fundador y gobernante de gondolin?",
+        "respuesta": "Turgon",
+        "incorrecta1": "Fingon",
+        "incorrecta2": "finrod",
+        "incorrecta3": "Elrond",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Como se llama el hermano mayor de Galadriel?",
+        "respuesta": "Finrod Felagund",
+        "incorrecta1": "Feanor",
+        "incorrecta2": "Thranduil",
+        "incorrecta3": "Legolas",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Como se llama el principe y capitan de la casa de la fuente de gondolin?",
+        "respuesta": "Ecthelion",
+        "incorrecta1": "Glorfindel",
+        "incorrecta2": "Rog",
+        "incorrecta3": "Turgon",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Varios",
+        "pregunta": "¿Cual era el valar conciderado señor de la fuerza y la lucha?",
+        "respuesta": "Tulkas",
+        "incorrecta1": "Melkor",
+        "incorrecta2": "Ulmo",
+        "incorrecta3": "Orome",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

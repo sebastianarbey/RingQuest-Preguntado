@@ -1,0 +1,135 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <title>Juego de preguntas</title>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.3.0/dist/sweetalert2.all.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+  </head>
+  
+  <body>
+    <style>
+      * {
+    transition: all 0.3s;
+  }
+
+  body {
+    background-image: url('imagenes/fondo3.webp');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation: cambiaFondo 10s infinite;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: calibri;
+    font-size: 120%;
+  }
+
+  @keyframes cambiaFondo {
+0% {
+background-image: url('imagenes/fondo3.webp');
+}
+25% {
+background-image: url('imagenes/fondo4.jpg');
+}
+50% {
+background-image: url('imagenes/fondo5.webp');
+}
+}
+  
+  .contenedor {
+    width: 96vw;
+    height: 93vh;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .encabezado {
+    border-radius: 30px 30px 20px 20px;
+    border: 1px solid rgba(94, 90, 90, 0.829);
+    position: relative;
+    background: #1f1e1edc;
+    font-weight: bold; 
+    min-width: 300px;
+    width: 65%;
+    max-width: 600px;
+    padding: 10px;
+    color:aliceblue;
+  }
+
+  .categoria {
+    opacity: 0.6;
+    text-align: left;
+    color:aliceblue;
+  }
+
+  .pregunta {
+    padding: 10px;
+  }
+
+  .imagen {
+    object-fit: cover;
+    height: 0px;
+    width: 0px;
+  }
+
+  .btn {
+    border: 1px solid rgba(94, 90, 90, 0.829);
+    background: #1f1e1edc;
+    border-radius: 20px 20px 20px 20px;
+    font-weight: bold; 
+    width: 60%;
+    max-width: 550px;
+    padding: 8px;
+    margin: 5px;
+    cursor: pointer;
+    color:aliceblue;
+    font-weight: bold;
+  }
+
+  .btn:hover {
+    transform: scale(1.05);
+  }
+  
+  .numero{
+    position: absolute;
+    opacity:0.3;
+    top: 10px;
+    right: 10px;
+  }
+  
+  .puntaje{
+    padding:0px;
+    margin:10px;
+    float: right;
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid black;
+    color:rgb(252, 252, 252);
+    position: relative; /* Esto es importante para que la posición absoluta se base en este elemento */
+    width: 60px; /* Defina el ancho y alto de su contenedor */
+    height: 26px;
+    background-color: rgba(255, 255, 255, 0.5);
+    font-weight: bold;
+  }
+    </style>
+  <div class="puntaje" id="puntaje">🥇</div>
+    <div class="contenedor">
+      
+      <div class="encabezado">
+        <div class="categoria" id="categoria">
+        </div>
+        <div class="numero" id="numero"></div>
+        <div class="pregunta" id="pregunta">
+        </div>
+        <img src="#" class="imagen" id="imagen">
+      </div>
+      <div class="btn" id="btn1" onclick="oprimir_btn(0)"></div>
+      <div class="btn" id="btn2" onclick="oprimir_btn(1)"></div>
+      <div class="btn" id="btn3" onclick="oprimir_btn(2)"></div>
+      <div class="btn" id="btn4" onclick="oprimir_btn(3)"></div>
+      
+      <script src="/app-index.js"></script>
+    </div>
+  
+  </body></html>
